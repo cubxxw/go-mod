@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	Println("python")
 	Println("main主函数")
 	hello.Hello()
 	Println(models.Name)
