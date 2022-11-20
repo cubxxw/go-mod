@@ -2,5 +2,6 @@ go 1.19
 
 use (
 	./fly-fish
+	./fuzz-demo
 	./mszlu-common
 )
